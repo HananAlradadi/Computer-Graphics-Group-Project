@@ -34,5 +34,4 @@ Team member:
 - Wasan
 - Rahaf
 - Dalya
-## A project submitted for Graphics Computer course
 
